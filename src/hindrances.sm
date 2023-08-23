@@ -1,0 +1,9 @@
+task: atom
+
+remember: person, task
+
+part-of-task: item, task
+
+can-interact-with person item if
+  part-of-task item, task
+  remember person, task

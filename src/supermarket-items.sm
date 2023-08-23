@@ -1,0 +1,15 @@
+item.tomato
+item.potato
+
+section.fruits-and-vegetables.tomato
+section.fruits-and-vegetables.potato
+
+section.sweets.chocolate-muffin
+section.sweets.muffin
+
+item(muffin)
+edible(muffin)
+section(sweets)
+location(muffin, sweets)
+
+place(P) if section(P).

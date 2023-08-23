@@ -1,0 +1,5 @@
+push-away person thing if
+  in-the-way-of thing person,
+  opinion.okay-to-move-others-stuff person
+then emotion.angry-at thing person if
+  sentient thing

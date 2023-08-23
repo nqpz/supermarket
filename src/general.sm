@@ -1,0 +1,13 @@
+#zero-sum-money:  ???
+
+place: atom
+item: atom
+person: atom
+section: atom
+years: int
+
+location: item, single place
+
+age: person, single years
+
+edible: item
