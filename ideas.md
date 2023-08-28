@@ -67,3 +67,13 @@ you stand still.
 Related: person.can-remember-faces, interaction.confrontation-averse, items blocking
 
 ---
+
+cannot leave unwanted conversation because of 'opinon.polite you'
+
+---
+
+cannot remember where things are if get stressed
+
+---
+
+cannot remember what to buy if get distracted
