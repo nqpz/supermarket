@@ -30,6 +30,14 @@ thereby indirectly cause the shoppers to get angry. Maybe you can blame
 other shoppers for your chaos.
 
 
+# Flavour text
+
+This can top off the simulation the first time something is encountered.
+There are no rules in flavour text, and as such there's also a risk that
+it will be wrong and become out of date wrt. the underlying simulation.
+But if constrained enough, maybe it's a good enough compromise.
+
+
 # Testing
 
 A test of the system could be to write down a series of actions that you
