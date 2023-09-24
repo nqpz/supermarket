@@ -149,3 +149,20 @@ let the memories organically through a pre-play simulation over the
 initial configuration.  But this will then have to generate something
 that corresponds to a condition that we're aiming for, which might be
 harder.  We can also do both.
+
+
+# Actual gameplay ideas
+
+## Pre-supermarket
+
+The player is asked to decide on five items to buy in the supermarket.
+These five items are remembered in the world state as a player memory,
+which means the player does not actually need to remember them.  Each
+item can be selected from a completion, so you don't have to type out
+the entire name of the item, and you also only get to pick items that
+exist in our supermarket.  Also, some of the items you maybe don't know
+because they are made up for the game, so it's not at all important what
+you pick.
+
+This is a small random element to get you introduced to the large world
+within the supermarket (so many items!).
