@@ -85,3 +85,59 @@ cannot remember where things are if get stressed
 ---
 
 cannot remember what to buy if get distracted
+
+
+# Relations
+
+Items can have relations to each other.
+
+`lt taste johnson-mayonaisse supreme-mayo`
+
+This fact will then be presented both when examing Johnson's Mayonaisse
+and when examing Supreme Mayo.
+
+
+# Inventing past interaction chains to ensure a current action
+
+Everything must be grounded in a simulation.  If, for narrative reasons,
+we want something to happen to the player at a given time or after a
+given set of conditions have been fulfilled, we need the system to be
+able to retroactively search and invent a series of past actions that
+cause NPC's to perform actions that change the world state in a way that
+allows for the narrative event to happen.
+
+For example, it may be that we want the player to get stuck behind
+another shopper who refuses to budge.  In that case we need to let the
+system decide what actions the NPC could have done beforehand in order
+to end up here.  A complete history from the point of entering the
+store.  The past actions leading to this point should not involve the
+player character, since the player has not seen this NPC before (since
+it didn't exist until this point).  This can always be trivially solved
+by just letting the NPC enter the store before the character enters it,
+but maybe it can also be solved in a less conservative way.
+
+It may be that the NPC's personality traits will then also have to be
+generated on-the-fly in order to force a certain walk through the
+supermarket.  For example, it might be necessary to have the NPC
+*really* like cakes to ensure that they will be standing still at the
+cake section of the supermarket.
+
+
+# Time relations
+
+The initial configuration of the store is manually crafted.
+In addition to the store, the world state can also contain a
+series of manually crafted temporal action relations that state who
+moved what where and when, and who knows that.
+
+These don't need to be in a complete ordering.  Characters might only
+know that the Emmentaler cheese was moved somewhere in August and that
+the tacos were moved somewhere at the end of August, but not know in
+which internal order that the Emmentaler and the tacos were moved in.
+
+Such memories have the same status as personality details in that they
+*define* the character.  Alternatively, it might be that it's better to
+let the memories organically through a pre-play simulation over the
+initial configuration.  But this will then have to generate something
+that corresponds to a condition that we're aiming for, which might be
+harder.  We can also do both.
