@@ -88,6 +88,12 @@ cannot remember what to buy if get distracted -> cannot pick up the items even
 though the player knows them (limitation in choices, graphically maybe
 the right choice is just grayed out)
 
+---
+
+another shopper who refuses to budge
+
+-> have to walk around the aisle
+
 
 # Relations
 
