@@ -1,35 +1,3 @@
-# Miscellaneous
-
-cashier can just ignore the customers while on their phone, but usually
-customers will interrupt the cashier when this happens after a while,
-but you'll just be on your phone indefinitely because you don't want to
-interact with them
-
-first play through as you, with very limited options (un-pickable options
-visible). Then have the option of playing as any one of the other customers or
-employees
-But the goal shouldn't be for you to learn other people's behavious. They should
-adapt to you, not the other way around.
-So when playing as the other characters, maybe a goal could be to make
-them leave you alone.
-But the game should still allow for interactivities that don't aim
-for this.
-
-
-if you try to take an item while already taking some item, you will
-forget the first one and won't be able to retake it. Maybe you can get
-distracted by music or other sounds
-
-
-
-People can get angry if there are not enough groceries stocked. Usually
-groceries will be restocked by the store personnel, but not if they give
-up working at the store due to a bad working environment. If you can aid
-in causing a bad working environment without being thrown out, you can
-thereby indirectly cause the shoppers to get angry. Maybe you can blame
-other shoppers for your chaos.
-
-
 # Flavour text
 
 This can top off the simulation the first time something is encountered.
@@ -88,11 +56,24 @@ cannot remember what to buy if get distracted -> cannot pick up the items even
 though the player knows them (limitation in choices, graphically maybe
 the right choice is just grayed out)
 
+If you try to take an item while already taking some item, you will
+forget the first one and won't be able to retake it. Maybe you can get
+distracted by music or other sounds.
+
 ---
 
 another shopper who refuses to budge
 
 -> have to walk around the aisle
+
+---
+
+People can get angry if there are not enough groceries stocked. Usually
+groceries will be restocked by the store personnel, but not if they give
+up working at the store due to a bad working environment. If you can aid
+in causing a bad working environment without being thrown out, you can
+thereby indirectly cause the shoppers to get angry. Maybe you can blame
+other shoppers for your chaos.
 
 
 # Relations
@@ -166,3 +147,25 @@ you pick.
 
 This is a small random element to get you introduced to the large world
 within the supermarket (so many items!).
+
+## At supermarket
+
+### Miscellaneous
+
+The cashier can just ignore the customers while on their phone, but usually
+customers will interrupt the cashier when this happens after a while,
+but you'll just be on your phone indefinitely because you don't want to
+interact with them.
+
+First play through as you, with very limited options (un-pickable
+options visible). Then have the option of playing as any one of the
+other customers or employees.
+
+But the goal shouldn't be for you to learn other people's
+behavious. They should adapt to you, not the other way around.
+
+So when playing as the other characters, maybe a goal could be to make
+them leave you alone.
+
+But the game should still allow for interactivities that don't aim
+for this.
