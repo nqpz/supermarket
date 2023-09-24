@@ -84,7 +84,9 @@ cannot remember where things are if get stressed
 
 ---
 
-cannot remember what to buy if get distracted
+cannot remember what to buy if get distracted -> cannot pick up the items even
+though the player knows them (limitation in choices, graphically maybe
+the right choice is just grayed out)
 
 
 # Relations
