@@ -13,3 +13,15 @@ section(sweets)
 location(muffin, sweets)
 
 place(P) if section(P).
+
+
+item.cool-tacos
+item.original-tacos
+
+section.snacks.cool-tacos
+section.snacks.original-tacos
+
+lt taste cool-tacos original-tacos
+
+expiration cool-tacos tomorrow
+slogan cool-tacos "Eat them today"
