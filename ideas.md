@@ -5,6 +5,8 @@ There are no rules in flavour text, and as such there's also a risk that
 it will be wrong and become out of date wrt. the underlying simulation.
 But if constrained enough, maybe it's a good enough compromise.
 
+But the flavour text should come out of the underlying facts.
+
 
 # Testing
 
